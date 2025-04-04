@@ -22,8 +22,7 @@ A modern Blog application built with **Kotlin** for Android. This app features u
 
 ## 📸 Screenshots
 
-
-<p align="center"> <img src="https://github.com/Mayank-Rai94/BlogApp/blob/87c3273c06ff361e635aac3ab89b384f9c93731c/Blog2.jpg?raw=true" width="250"> <img src="https://github.com/Mayank-Rai94/BlogApp/blob/87c3273c06ff361e635aac3ab89b384f9c93731c/Blog3.jpg?raw=true" width="250"> <img src="https://github.com/Mayank-Rai94/BlogApp/blob/87c3273c06ff361e635aac3ab89b384f9c93731c/Blog4.jpg?raw=true" width="250">  <img src="https://github.com/Mayank-Rai94/BlogApp/blob/87c3273c06ff361e635aac3ab89b384f9c93731c/Screenshot%20(417).png?raw=true" width="250"> </p>
+<p align="center"> <img src="https://github.com/Mayank-Rai94/BlogApp/blob/87c3273c06ff361e635aac3ab89b384f9c93731c/Blog2.jpg?raw=true" width="250"> <img src="https://github.com/Mayank-Rai94/BlogApp/blob/87c3273c06ff361e635aac3ab89b384f9c93731c/Blog3.jpg?raw=true" width="250"> <img src="https://github.com/Mayank-Rai94/BlogApp/blob/87c3273c06ff361e635aac3ab89b384f9c93731c/Blog4.jpg?raw=true" width="250">  <img src="https://github.com/Mayank-Rai94/BlogApp/blob/87c3273c06ff361e635aac3ab89b384f9c93731c/Screenshot%20(417).png?raw=true" width="250"> <img src="https://github.com/Mayank-Rai94/BlogApp/blob/fc66a4573c65279f1b38fb3c1f4040823f5b2fad/Blog6.jpg"?raw=true" width="250"> </p>
 
 
 ## 📦 Setup Instructions
