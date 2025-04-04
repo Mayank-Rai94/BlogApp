@@ -22,7 +22,8 @@ A modern Blog application built with **Kotlin** for Android. This app features u
 
 ## 📸 Screenshots
 
-(https://github.com/Mayank-Rai94/BlogApp/blob/87c3273c06ff361e635aac3ab89b384f9c93731c/Screenshot%20(417).png)
+![Screenshot](https://github.com/Mayank-Rai94/BlogApp/blob/87c3273c06ff361e635aac3ab89b384f9c93731c/Screenshot%20(417).png?raw=true)
+
 
 ## 📦 Setup Instructions
 
